@@ -1,0 +1,6 @@
+C:\Users\Radu\Desktop\Integration 2\Integration 2\bin\Release\Integration 2.exe.config
+C:\Users\Radu\Desktop\Integration 2\Integration 2\bin\Release\Integration 2.exe
+C:\Users\Radu\Desktop\Integration 2\Integration 2\bin\Release\Integration 2.pdb
+C:\Users\Radu\Desktop\Integration 2\Integration 2\obj\Release\Integration 2.exe
+C:\Users\Radu\Desktop\Integration 2\Integration 2\obj\Release\Integration 2.pdb
+C:\Users\Radu\Desktop\Integration 2\Integration 2\obj\Release\Integration 2.csprojResolveAssemblyReference.cache
