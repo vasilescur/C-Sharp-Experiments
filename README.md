@@ -6,4 +6,4 @@ Uploaded in the Visual Studio project format, so the source code will be inside 
 Implements numeric integration of a power function using a Riemann Sum.
 
 ## Refraction Index
-This physics utility calculates refraction indices.
+This physics utility graphs the variation of an index of refraction with frequency and wavelength.
