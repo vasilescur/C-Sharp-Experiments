@@ -1,0 +1,9 @@
+C:\Users\Radu\Desktop\RefractionIndex(Graphical)\RefractionIndex(Graphical)\bin\Debug\RefractionIndex(Graphical).exe.config
+C:\Users\Radu\Desktop\RefractionIndex(Graphical)\RefractionIndex(Graphical)\bin\Debug\RefractionIndex(Graphical).exe
+C:\Users\Radu\Desktop\RefractionIndex(Graphical)\RefractionIndex(Graphical)\bin\Debug\RefractionIndex(Graphical).pdb
+C:\Users\Radu\Desktop\RefractionIndex(Graphical)\RefractionIndex(Graphical)\obj\Debug\RefractionIndex(Graphical).csprojResolveAssemblyReference.cache
+C:\Users\Radu\Desktop\RefractionIndex(Graphical)\RefractionIndex(Graphical)\obj\Debug\RefractionIndex_Graphical_.Form1.resources
+C:\Users\Radu\Desktop\RefractionIndex(Graphical)\RefractionIndex(Graphical)\obj\Debug\RefractionIndex_Graphical_.Properties.Resources.resources
+C:\Users\Radu\Desktop\RefractionIndex(Graphical)\RefractionIndex(Graphical)\obj\Debug\RefractionIndex(Graphical).csproj.GenerateResource.Cache
+C:\Users\Radu\Desktop\RefractionIndex(Graphical)\RefractionIndex(Graphical)\obj\Debug\RefractionIndex(Graphical).exe
+C:\Users\Radu\Desktop\RefractionIndex(Graphical)\RefractionIndex(Graphical)\obj\Debug\RefractionIndex(Graphical).pdb
