@@ -1,0 +1,9 @@
+D:\Programming\C# Programs\DoNothing\DoNothing\bin\Debug\DoNothing.exe.config
+D:\Programming\C# Programs\DoNothing\DoNothing\bin\Debug\DoNothing.exe
+D:\Programming\C# Programs\DoNothing\DoNothing\bin\Debug\DoNothing.pdb
+D:\Programming\C# Programs\DoNothing\DoNothing\obj\Debug\DoNothing.csprojResolveAssemblyReference.cache
+D:\Programming\C# Programs\DoNothing\DoNothing\obj\Debug\DoNothing.Form1.resources
+D:\Programming\C# Programs\DoNothing\DoNothing\obj\Debug\DoNothing.Properties.Resources.resources
+D:\Programming\C# Programs\DoNothing\DoNothing\obj\Debug\DoNothing.csproj.GenerateResource.Cache
+D:\Programming\C# Programs\DoNothing\DoNothing\obj\Debug\DoNothing.exe
+D:\Programming\C# Programs\DoNothing\DoNothing\obj\Debug\DoNothing.pdb
